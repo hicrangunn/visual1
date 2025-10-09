@@ -1,0 +1,16 @@
+C:\Users\lab_c\source\repos\hicran\hicran\bin\Debug\net7.0-windows\hicran.exe
+C:\Users\lab_c\source\repos\hicran\hicran\bin\Debug\net7.0-windows\hicran.deps.json
+C:\Users\lab_c\source\repos\hicran\hicran\bin\Debug\net7.0-windows\hicran.runtimeconfig.json
+C:\Users\lab_c\source\repos\hicran\hicran\bin\Debug\net7.0-windows\hicran.dll
+C:\Users\lab_c\source\repos\hicran\hicran\bin\Debug\net7.0-windows\hicran.pdb
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.Form1.resources
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.AssemblyInfoInputs.cache
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.AssemblyInfo.cs
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.dll
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\refint\hicran.dll
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.pdb
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\hicran.genruntimeconfig.cache
+C:\Users\lab_c\source\repos\hicran\hicran\obj\Debug\net7.0-windows\ref\hicran.dll
